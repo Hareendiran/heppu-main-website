@@ -53,7 +53,7 @@ const Hero: React.FC = () => {
                 when you have the file in your project folder.
              */}
              <img 
-                src="heppu-logo.png" 
+                src="/heppu-logo.png" 
                 alt="Heppu Logo" 
                 className="relative z-10 w-64 h-64 md:w-80 md:h-80 object-contain transition-transform hover:scale-105 duration-500"
              />

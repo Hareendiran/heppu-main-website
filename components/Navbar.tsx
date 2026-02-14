@@ -29,7 +29,7 @@ const Navbar: React.FC = () => {
           {/* Logo Text/Image Placeholder */}
           <div className="flex items-center gap-2 z-50">
             <img 
-              src="heppu-logo.png" 
+              src="/heppu-logo.png" 
               alt="Heppu Logo" 
               className="h-16 w-auto object-contain"
             />
